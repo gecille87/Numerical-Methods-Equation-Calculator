@@ -1,0 +1,5 @@
+How to Run:
+1. Open any python ide. (I use Pycharm in this project)
+2. Download and Install 'Equation' Module
+3. Download and Install 'sympy' module
+4. Run main.py

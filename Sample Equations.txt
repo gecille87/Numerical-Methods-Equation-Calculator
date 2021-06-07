@@ -1,0 +1,61 @@
+BISECTION:
+1. x**3-x-1
+	Root lies between 1.32422 and 1.32617
+2. 2*x**3-2*x-5
+	Root lies between 1.59375 and 1.60938
+3. x**2-3
+	Root : Approx.  1.7344
+4. E**(-x)-x
+	Approx Root: 0.56842
+5.sin(-x+1)*E**(-x)
+	Approx Root: -2.13
+
+FALSE POSITION:
+1. x**3-x-1
+	Root lies between 1.32422 and 1.32617
+2. 2*x**3-2*x-5
+	Root lies between 1.59375 and 1.60938
+3. x**2-3
+	Root : Approx.  1.7344
+4. E**(-x)-x
+	Approx Root: 0.56842
+5.sin(-x+1)*E**(-x)
+	Approx Root: -2.13
+
+NEWTON RAPHSON:
+1. x**3-x-1
+	Root lies between 1.32422 and 1.32617
+2. 2*x**3-2*x-5
+	Root lies between 1.59375 and 1.60938
+3. x**2-3
+	Root : Approx.  1.7344
+4. E**(-x)-x
+	Approx Root: 0.56842
+5.sin(-x+1)*E**(-x)
+	Approx Root: -2.13 & .999
+
+SECANT:
+1. x**3-x-1
+	Root lies between 1.32422 and 1.32617
+2. 2*x**3-2*x-5
+	Root lies between 1.59375 and 1.60938
+3. x**2-3
+	Root : Approx.  1.7344
+4. E**(-x)-x
+	Approx Root: 0.56842
+5.sin(-x+1)*E**(-x)
+	Approx Root: -2.13 & .999
+
+FIXED POINT:
+1. 1 + 0.5*sin(x) 
+		approx root: 1.49
+2. E**(-x)
+		approx root: 0.56842
+3. (x**3 +3)/7
+x=1
+		approx root: 0.44
+4. 3**0.5
+	Root : Approx.  1.7344
+5. cos(x)
+try: 3
+	Approx root= 0.736
